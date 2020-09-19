@@ -82,6 +82,7 @@ p {
 	margin-bottom:10px;
 	/*background-color: #520485;*/
 	min-height: 100px;
+	min-width: 300px;
 }
 
 .grid-element img {
